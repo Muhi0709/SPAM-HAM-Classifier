@@ -9,9 +9,8 @@
                  (Also the tf-idf feature vectors,labels,lemma_dictionary and bagofwords are saved as npy files)
 
 
-* source code for checking accuracy of the trained classifier, results attached in Report.pdf
+* Source code for checking accuracy of the trained classifier, results attached in Report.pdf
 
-------------------------------------------------
-svm_classifier.sav : trained classifier
-lemma_dictionary.npy : python dictionary for lemmatisation
-bagofwords.npy : python list of the unique word set generated from enron email set.
+* svm_classifier.sav : trained classifier
+* lemma_dictionary.npy : python dictionary for lemmatisation
+* bagofwords.npy : python list of the unique word set generated from enron email set.
